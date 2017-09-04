@@ -1,0 +1,20 @@
+framework "4.5.1x64"
+$base_dir = $psake.build_script_dir
+$build_output_dir = Join-Path $base_dir ".build\output"
+$local_nuget_feed = "C:\LocalNuGetFeed"
+$nuget = Join-Path $base_dir ".nuget\NuGet.exe"
+$packages_dir = & $nuget config repositoryPath -AsPath
+$solution_name = (Get-ChildItem -Path $base_dir *.sln | Select-Object -First 1).BaseName
+$solution_dir = $base_dir
+$solution_packages_config = Join-Path $solution_dir ".nuget\packages.config"
+$project_name = $solution_name
+$project_dir =  Join-Path $base_dir $project_name
+$test_projects = Get-TestProjectsFromSolution $solution_dir $solution_name
+$config = "Release"
+$output_dir = "build_output"
+$artifact_dir = Join-Path $build_output_dir $project_name
+$test_results_dir = Join-Path $build_output_dir "TestResults"
+$git_version = & (Join-Path (Get-PackageDir "$solution_packages_config" "$packages_dir" "GitVersion.CommandLine") "Tools\GitVersion.exe") | Out-String | ConvertFrom-Json
+$zip_artifact = $false
+$run_octopack = $false
+$nuget_api_key = ""

@@ -1,0 +1,11 @@
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\build_output\GildedRose.Console.exe.config
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\build_output\GildedRose.Console.exe
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\build_output\mscorlib.dll
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\build_output\fr\mscorlib.resources.dll
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\build_output\normidna.nlp
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\build_output\normnfc.nlp
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\build_output\normnfd.nlp
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\build_output\normnfkc.nlp
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\build_output\normnfkd.nlp
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\obj\Release\GildedRose.Console.csprojResolveAssemblyReference.cache
+H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\obj\Release\GildedRose.Console.exe
