@@ -1,0 +1,16 @@
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\GildedRose.Tests.dll
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\GildedRose.Tests.pdb
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\xunit.assert.dll
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\xunit.core.dll
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\xunit.assert.xml
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\xunit.core.pdb
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Debug\xunit.core.xml
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.dll
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.pdb

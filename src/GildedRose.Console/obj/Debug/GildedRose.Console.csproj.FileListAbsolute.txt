@@ -1,0 +1,7 @@
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe.config
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\bin\Debug\GildedRose.Console.pdb
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\obj\Debug\GildedRose.Console.csprojResolveAssemblyReference.cache
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\obj\Debug\GildedRose.Console.csproj.CoreCompileInputs.cache
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\obj\Debug\GildedRose.Console.exe
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\obj\Debug\GildedRose.Console.pdb
