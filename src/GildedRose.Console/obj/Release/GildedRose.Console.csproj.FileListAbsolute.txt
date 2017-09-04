@@ -11,11 +11,5 @@ H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\obj\Release\Gilde
 H:\ExamenTechniqueEmergensys\Emergensys\src\GildedRose.Console\obj\Release\GildedRose.Console.exe
 C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\build_output\GildedRose.Console.exe.config
 C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\build_output\GildedRose.Console.exe
-C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\build_output\mscorlib.dll
-C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\build_output\normidna.nlp
-C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\build_output\normnfc.nlp
-C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\build_output\normnfd.nlp
-C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\build_output\normnfkc.nlp
-C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\build_output\normnfkd.nlp
 C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\obj\Release\GildedRose.Console.csprojResolveAssemblyReference.cache
 C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\obj\Release\GildedRose.Console.exe
