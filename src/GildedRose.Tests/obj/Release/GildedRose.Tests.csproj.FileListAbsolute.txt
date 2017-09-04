@@ -24,3 +24,5 @@ C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Release\xunit.a
 C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Release\xunit.assert.xml
 C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Release\xunit.core.pdb
 C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\bin\Release\xunit.core.xml
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\obj\Release\GildedRose.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Tests\obj\Release\GildedRose.Tests.pdb

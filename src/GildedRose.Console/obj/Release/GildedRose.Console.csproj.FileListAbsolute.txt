@@ -13,3 +13,8 @@ C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\build_output\Gild
 C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\build_output\GildedRose.Console.exe
 C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\obj\Release\GildedRose.Console.csprojResolveAssemblyReference.cache
 C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\obj\Release\GildedRose.Console.exe
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\bin\Release\GildedRose.Console.exe.config
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\bin\Release\GildedRose.Console.exe
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\bin\Release\GildedRose.Console.pdb
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\obj\Release\GildedRose.Console.csproj.CoreCompileInputs.cache
+C:\Users\ph\Documents\GitHub\Emergensys\src\GildedRose.Console\obj\Release\GildedRose.Console.pdb
